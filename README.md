@@ -49,11 +49,11 @@ Clone the repository:
 
 General Architecture
 
-![Arch](https://github.com/faisu07/Texture_Analysis/blob/main/arch_g.png) 
+![Arch](https://github.com/faisu07/Texture_Analysis/blob/main/Architecture.jpeg) 
 
 Our Architecture
 
-![Arch](https://github.com/faisu07/Texture_Analysis/blob/main/arch_o.png)  
+![Arch](https://github.com/faisu07/Texture_Analysis/blob/main/Our%20ARCHITECTURE_latest.jpeg)  
 
 ## Results
 
