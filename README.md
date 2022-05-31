@@ -36,18 +36,12 @@ For FMD dataset
 ```bash
   python main.py --dataset=KTH --n_classes=11 --train_need --test_need  --test_BS=32 --train_BS=32  --model=FENet --use_pretrained --num_epochs=40 --scheduler="cosine" --lr=0.01
 ```   
-## Demo
+## Usage
 
-Insert gif or link to demo
-
-
-## Deployment
-
-To deploy this project run
+Clone the repository:
 
 ```bash
-  npm run deploy
-```
+```   
 
 
 ## Screenshots
