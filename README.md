@@ -52,7 +52,7 @@ To deploy this project run
 
 ## Screenshots
 
-![Results of single combination](https://drive.google.com/file/d/182oRPALRm93_ohisOl1OnwSb1C1fydb6/view?usp=sharing)
+![Results of single combination](https://github.com/faisu07/Texture_Analysis/blob/main/resukts2.png)
 
 ![Results of double combination](https://drive.google.com/file/d/1OE4FqiPNOgue-yG3rrE5RvzbKx0eWsg6/view?usp=sharing)
 
