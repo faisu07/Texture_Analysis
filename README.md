@@ -54,7 +54,7 @@ To deploy this project run
 
 ![Results of single combination](https://github.com/faisu07/Texture_Analysis/blob/main/resukts2.png)
 
-![Results of double combination](https://drive.google.com/file/d/1OE4FqiPNOgue-yG3rrE5RvzbKx0eWsg6/view?usp=sharing)
+![Results of double combination](https://github.com/faisu07/Texture_Analysis/blob/main/results.png)
 
 ![Results of triple combination](https://drive.google.com/file/d/1mDvr1oLa6dKix6qnpF8Z_AR-zV4sgBFg/view?usp=sharing)
 
