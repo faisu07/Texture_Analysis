@@ -7,7 +7,10 @@ a group of distinct and unique weak learners when ensembled together form a stro
 this hypothesis we have suggested a framework where various texture extraction techniques have been
 ensembled after the convolution layers.
 
-
+## Description:
+ 
+ 
+ 
 ## Required Python Dependencies
 
 To run the code, Install the dependencies first using the following commands
@@ -42,9 +45,17 @@ Clone the repository:
 
 ```bash
 ```   
+## Architecture
 
+General Architecture
 
-## Screenshots
+![Arch](https://github.com/faisu07/Texture_Analysis/blob/main/arch_g.png) 
+
+Our Architecture
+
+![Arch](https://github.com/faisu07/Texture_Analysis/blob/main/arch_o.png)  
+
+## Results
 
 ![Results of triple combination](https://github.com/faisu07/Texture_Analysis/blob/main/results3.png)    
 
